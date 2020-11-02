@@ -29,6 +29,8 @@ HHBLITS_DB_PATH=./uniclust30_2018_0               #HHBLITS_DB_PATH represents th
 
 After running step (4), the prediction results of the protein-ATP binding residues of the predicted proteins were obtained, and the result file was located in the following path: "Folder path to save the relevant files "/seq.deepatpseq.
 
+NOTE：train_seq.fa file is the protein sequences of the training set and test_seq.fa file is the protein sequences of the testing set. 
+
 
 # 3、Reference
 Jun Hu, Lin-Lin Zheng, Yan-Song Bai, Ke-Wen Zhang, Dong-Jun Yu, Gui-Jun Zhang,
