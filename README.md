@@ -34,9 +34,9 @@ NOTE：PATP-388.fa file is the protein sequences of the training set and PATP-TE
 
 # 3、Reference
 Jun Hu, Lin-Lin Zheng, Yan-Song Bai, Ke-Wen Zhang, Dong-Jun Yu, Gui-Jun Zhang,
-Sequence-based prediction of protein-ATP binding residues using deep convolutional neural network and support vector machine.
+Accurate prediction of protein-ATP binding residues solely using sequence information.
 
-       	
+      
 
 
 
